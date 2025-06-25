@@ -192,8 +192,12 @@
                                                 <td>5</td>
                                                 <td><img src="path/to/asus-tuf.jpg" alt="ASUS TUF"></td>
                                                 <td>
-                                                    <button class="btn btn-info btn-sm">Ubah</button>
-                                                    <button class="btn btn-danger btn-sm">Hapus</button>
+                                                    <button class="btn btn-info btn-sm">
+                                                        <i class="icon-pencil"></i>
+                                                    </button>
+                                                    <button class="btn btn-danger btn-sm">
+                                                        <i class="icon-trash"></i>
+                                                    </button>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -203,8 +207,12 @@
                                                 <td>7</td>
                                                 <td><img src="path/to/asus-vivobook.jpg" alt="Asus Vivobook"></td>
                                                 <td>
-                                                    <button class="btn btn-info btn-sm">Ubah</button>
-                                                    <button class="btn btn-danger btn-sm">Hapus</button>
+                                                    <button class="btn btn-info btn-sm">
+                                                        <i class="icon-pencil"></i>
+                                                    </button>
+                                                    <button class="btn btn-danger btn-sm">
+                                                        <i class="icon-trash"></i>
+                                                    </button>
                                                 </td>
                                             </tr>
                                             <tr>
@@ -214,8 +222,12 @@
                                                 <td>5</td>
                                                 <td><img src="path/to/lenovo-ideapad.jpg" alt="Lenovo IdeaPad"></td>
                                                 <td>
-                                                    <button class="btn btn-info btn-sm">Ubah</button>
-                                                    <button class="btn btn-danger btn-sm">Hapus</button>
+                                                    <button class="btn btn-info btn-sm">
+                                                        <i class="icon-pencil"></i>
+                                                    </button>
+                                                    <button class="btn btn-danger btn-sm">
+                                                        <i class="icon-trash"></i>
+                                                    </button>
                                                 </td>
                                             </tr>
                                         </tbody>
