@@ -14,31 +14,34 @@
         </ul>
       </div>
     </li>
-    <li class="nav-item nav-category">Airdrop Management</li>
+    
+    <!-- Main Navigation Categories -->
+    <li class="nav-item nav-category">E-Commerce Management</li>
+    
+    <!-- Home Navigation -->
     <li class="nav-item">
-      <a class="nav-link" href="#overview" data-bs-toggle="tab" role="tab">
-        <i class="mdi mdi-chart-areaspline menu-icon"></i>
-        <span class="menu-title">User Analytics</span>
+      <a class="nav-link" href="#home-content" data-bs-toggle="tab" role="tab">
+        <i class="mdi mdi-home menu-icon"></i>
+        <span class="menu-title">Home</span>
       </a>
     </li>
+    
+    <!-- Shopping Cart Navigation -->
     <li class="nav-item">
-      <a class="nav-link" href="#audiences" data-bs-toggle="tab" role="tab">
-        <i class="mdi mdi-airplane menu-icon"></i>
-        <span class="menu-title">Airdrop Management</span>
+      <a class="nav-link" href="#keranjang-content" data-bs-toggle="tab" role="tab">
+        <i class="mdi mdi-cart menu-icon"></i>
+        <span class="menu-title">Keranjang</span>
       </a>
     </li>
+    
+    <!-- Product Management Navigation -->
     <li class="nav-item">
-      <a class="nav-link" href="#demographics" data-bs-toggle="tab" role="tab">
-        <i class="mdi mdi-check-all menu-icon"></i>
-        <span class="menu-title">Task Verification</span>
-      </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#more" data-bs-toggle="tab" role="tab">
-        <i class="mdi mdi-cog menu-icon"></i>
-        <span class="menu-title">System Settings</span>
+      <a class="nav-link" href="#produk-content" data-bs-toggle="tab" role="tab">
+        <i class="mdi mdi-package-variant menu-icon"></i>
+        <span class="menu-title">Produk</span>
       </a>
     </li>
   </ul>
 </nav>
+
 <!-- partial -->
