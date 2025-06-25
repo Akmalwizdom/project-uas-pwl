@@ -127,7 +127,7 @@
                                                 <td class="fw-bold">IDR 6,899,000</td>
                                                 <td>
                                                     <button class="btn btn-danger btn-sm">
-                                                        <i class="fas fa-trash"></i>
+                                                        <i class="icon-trash"></i>
                                                     </button>
                                                 </td>
                                             </tr>
